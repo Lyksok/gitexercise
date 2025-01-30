@@ -8,6 +8,8 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/vcs.xml
+.idea/encodings.xml
 *.iws
 *.iml
 *.ipr
@@ -38,3 +40,5 @@ build/
 .DS_Store
 
 configuration.properties
+
+.idea/
